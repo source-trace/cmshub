@@ -4,6 +4,7 @@
     - [axublog](https://github.com/source-trace/axublog)
 - B
     - [beescms](https://github.com/source-trace/beescms)
+    - [bluecms](https://github.com/source-trace/bluecms)
 - F
     - [fengcms](https://github.com/source-trace/fengcms)
     - [frcms](https://github.com/source-trace/frcms)
